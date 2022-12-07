@@ -331,7 +331,6 @@ button {
 
 .work__projects {
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
     opacity: 1;
 
